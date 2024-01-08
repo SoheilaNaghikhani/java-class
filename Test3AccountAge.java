@@ -5,7 +5,6 @@ public class Test3AccountAge {
     }
     public static int AccountAge(int birthday)
     {
-        int yearDefferent=1402-birthday;
-        return yearDefferent;
+        return 1402-birthday;
     }
 }
