@@ -9,7 +9,6 @@ public class Test3Delta {
         System.out.println(result);
     }
     public static int Delta(int a,int b, int c){
-        int deltaAccount=b*b-4*a*c;
-        return deltaAccount;
+        return (b*b-4*a*c);
     }
 }
